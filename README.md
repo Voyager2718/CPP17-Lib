@@ -12,4 +12,4 @@ Location: [ytime](./ytime)
 - ytime
 
 ### Usage
-- `std::string ytime::GetTime()`: GetTime returns formatted date and time in string. Example: **Mon Jul 10 12:29:15 2017 CST**.
+- `std::string ytime::GetTime()`: GetTime returns formatted date and time in `std::string`. Format: **"Mon Jul 10 12:29:15 2017 CST"**.
