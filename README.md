@@ -4,7 +4,7 @@ This is libraries that written by myself in order to simplify my C++ 11/17 devel
 # ytime
 Location: [ytime](./ytime)
 
-### Dependancy
+### Dependancies & Requirements
 - STL (iomanip, ctime, sstream)
 - C++11 or above
 
