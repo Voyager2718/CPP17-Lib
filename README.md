@@ -32,4 +32,4 @@ Location: [yrandom](./yrandom)
 - Windows lib (windows.h, Wincrypt.h)
 
 ## Usage
-- `int yrandom::Random(unsigned int, unsigned int)`: Return random number between 1 and 10 (Inclusive).
+- `int yrandom::Random(unsigned int min, unsigned int max)`: Return random number between `min` and `max` (Inclusive).
