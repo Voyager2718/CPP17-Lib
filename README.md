@@ -33,3 +33,10 @@ Location: [yrandom](./yrandom)
 
 ## Usage
 - `int yrandom::Random(unsigned int min, unsigned int max)`: Return random number between `min` and `max` (Inclusive).
+
+# ycompilation
+## Description
+**ycompilation.h** contains some functions that are written in template metaprogramming.
+
+## Usage
+- `sameType(1, 2);`: Returns true (0) while `sameType(1, true);` returns false in C++11.
